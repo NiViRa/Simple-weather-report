@@ -1,0 +1,29 @@
+
+h1 {
+    background-color: powderblue;
+	color: blue;
+	font-family: Times New Roman;
+	text-align: center
+}
+.city {
+	color: green;
+	margin: 0;
+}
+.temperature {
+	margin: 0;
+}
+.desc {
+	margin: 0;
+}
+.weatherframe {
+	color: black;
+	font-size: 2rem;
+	max-width: 550px;
+	height: 40vh;
+	border: 1px solid black;
+	margin: 0 auto;
+	/*display: grid;
+	grid-template-rows: 30% 70%;*/
+	text-align: center;
+	padding: 25px 5px; 
+}
